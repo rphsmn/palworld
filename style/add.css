@@ -1,0 +1,21 @@
+body {
+    background-image: url('webimg/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+h2 {
+    color: rgb(48, 182, 54);
+    font-size: 36px;
+}
+h6 {
+  color: rgb(0, 0, 0);
+  align-self: center;
+}
+
+span {
+    color: red;
+    font-weight: bolder;
+}
